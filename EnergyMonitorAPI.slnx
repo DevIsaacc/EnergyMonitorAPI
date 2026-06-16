@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EnergyMonitorAPI.Tests/EnergyMonitorAPI.Tests.csproj" />
+  <Project Path="EnergyMonitorAPI/EnergyMonitorAPI.csproj" />
+</Solution>
